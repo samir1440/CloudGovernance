@@ -34,3 +34,6 @@ Amazon Web Services (AWS) biedt een aantal hulpmiddelen en richtlijnen aan om kl
 ### Microsoft Azure
 Microsoft Azure biedt ook een aantal hulpmiddelen en richtlijnen aan om klanten te helpen bij het opstellen en implementeren van een Cloud Computing Governance Framework. Dit omvat onder andere de Azure Policy, die klanten helpt om te voldoen aan hun compliance-vereisten en om de juiste beleidsregels te implementeren voor hun cloud omgeving, en de Azure Governance Playbook, dat een reeks best practices bevat voor het beheren en optimaliseren van cloud omgeving.
 
+---
+
+De video waar het om gaat https://www.youtube.com/watch?v=diuyvTtXj_w
